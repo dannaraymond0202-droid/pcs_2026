@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/Stampa2.dir/link.d CMakeFiles/Stampa2.dir/Esercizio2.cpp.o -o Stampa2

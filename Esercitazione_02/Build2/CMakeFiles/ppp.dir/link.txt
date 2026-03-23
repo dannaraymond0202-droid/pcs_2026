@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/ppp.dir/link.d CMakeFiles/ppp.dir/Prova_02.cpp.o -o ppp
