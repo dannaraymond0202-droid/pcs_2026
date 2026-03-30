@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/prck.dir/link.d CMakeFiles/prck.dir/Prova.cpp.o -o prck
