@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/Run_Bub.dir/link.d CMakeFiles/Run_Bub.dir/test_bubble.cpp.o -o Run_Bub

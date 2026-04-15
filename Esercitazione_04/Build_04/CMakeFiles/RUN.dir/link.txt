@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/RUN.dir/link.d CMakeFiles/RUN.dir/measure.cpp.o -o RUN

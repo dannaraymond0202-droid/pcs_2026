@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/Run_Sel.dir/link.d CMakeFiles/Run_Sel.dir/test_selection.cpp.o -o Run_Sel

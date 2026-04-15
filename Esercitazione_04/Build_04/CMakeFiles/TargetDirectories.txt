@@ -1,0 +1,7 @@
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/RUN.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/Run_Bub.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/Run_Ins.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/Run_Sel.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/test.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_04/Build_04/CMakeFiles/rebuild_cache.dir
