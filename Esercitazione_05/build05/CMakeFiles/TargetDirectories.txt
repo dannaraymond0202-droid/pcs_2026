@@ -1,0 +1,6 @@
+/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/CMakeFiles/RUN_Misure.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/CMakeFiles/RUN_Merge.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/CMakeFiles/RUN_Quick.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/CMakeFiles/test.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/CMakeFiles/rebuild_cache.dir

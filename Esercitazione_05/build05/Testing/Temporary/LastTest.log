@@ -1,0 +1,35 @@
+Start testing: May 04 15:12 UTC
+----------------------------------------------------------
+1/2 Testing: Merge
+1/2 Test: Merge
+Command: "/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/RUN_Merge"
+Directory: /home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05
+"Merge" start time: May 04 15:12 UTC
+Output:
+----------------------------------------------------------
+Tutto funziona 
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Passed.
+"Merge" end time: May 04 15:12 UTC
+"Merge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: Quick
+2/2 Test: Quick
+Command: "/home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05/RUN_Quick"
+Directory: /home/pcsdocker/Data/pcs_2026/Esercitazione_05/build05
+"Quick" start time: May 04 15:12 UTC
+Output:
+----------------------------------------------------------
+è tutto giusto
+<end of output>
+Test time =   1.59 sec
+----------------------------------------------------------
+Test Passed.
+"Quick" end time: May 04 15:12 UTC
+"Quick" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: May 04 15:12 UTC
