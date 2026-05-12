@@ -1,0 +1,21 @@
+Start testing: May 12 14:14 UTC
+----------------------------------------------------------
+1/1 Testing: TEST
+1/1 Test: TEST
+Command: "/home/pcsdocker/Data/pcs_2026/Esercitazione_06/build_06/RUN"
+Directory: /home/pcsdocker/Data/pcs_2026/Esercitazione_06/build_06
+"TEST" start time: May 12 14:14 UTC
+Output:
+----------------------------------------------------------
+Nodi vicini a 8: { 1 3 }
+ Archi di G: {1--->8 3--->8 4--->7 }Nodi di G1-G: { 8 9 10 16 }
+ Archi: {8--->9 10--->16 }
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TEST" end time: May 12 14:14 UTC
+"TEST" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 12 14:14 UTC
